@@ -1,0 +1,29 @@
+
+1. Solving customer churn
+- A fictious dataset about churn from a Telecom provider (Databel)
+
+Task:
+- Discover why customers are churning (leaving Databel)
+
+
+2. Defining churn
+- The *churn rate*, also known as the rate of attrition or customer churn, is the rate 
+at which customers stop doing business with an entity
+- Leaky bucket problem
+- Keeping customers is easier than getting new customers.
+- Reducing churn is a priority for many companies
+
+3.  Calculating churn
+
+Simplified formula:
+- churn rate = customers lost / total number of customers
+
+
+
+================================================================================
+Data Exploration
+================================================================================
+
+1. The churn rate for Databel is ~27%
+2. ~45% of the reasons why customers churn is related to competitors.
+3. The churn rate in California is abnormally high (>60%)
